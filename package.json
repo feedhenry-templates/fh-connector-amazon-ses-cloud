@@ -2,6 +2,7 @@
   "name": "fh-service-amazon-ses-cloud",
   "version": "0.1.0",
   "dependencies": {
+    "fh-mbaas-api": "~3.1.0",
     "aws-sdk": "1.12.0",
     "request": "2.34.0",
     "body-parser": "~1.0.2",
