@@ -1,6 +1,7 @@
 FORMAT: 1A
 
 # FeedHenry Amazon SES Connector
+[![Dependency Status](https://img.shields.io/david/feedhenry-templates/fh-connector-amazon-ses-cloud.svg?style=flat-square)](https://david-dm.org/feedhenry-templates/fh-connector-amazon-ses-cloud)
 
 The FeedHenry Amazon SES Connector. For more information on Amazon SES see: [https://github.com/aws/aws-sdk-js](https://github.com/aws/aws-sdk-js).
 
