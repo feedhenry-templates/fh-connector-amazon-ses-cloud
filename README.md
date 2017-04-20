@@ -24,3 +24,23 @@ List all verified email addresses
     + Body
             {
             }
+# Build
+```
+npm install
+```
+
+# Tests
+
+All the tests are in the "test/" directory. The cloud app is using mocha as the test runner. 
+
+## Unit tests
+
+```shell
+npm test
+```
+
+## Unit coverage
+
+```shell
+npm run coverage
+```
