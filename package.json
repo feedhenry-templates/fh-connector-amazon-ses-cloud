@@ -10,6 +10,7 @@
     "aws-sdk": "1.12.0"
   },
   "devDependencies": {
+    "grunt": "~0.4.0",
     "grunt-concurrent": "latest",
     "grunt-contrib-jshint": "^0.11.3",
     "grunt-contrib-watch": "latest",
